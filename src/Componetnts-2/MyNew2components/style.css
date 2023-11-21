@@ -1,0 +1,82 @@
+.title{
+    margin-top: 400px;
+
+
+}
+.apple {
+    border-radius: 10px;
+    width: 500px;
+    height: 700px;
+    margin-left: 900px;
+}
+.apple-name{
+    color: white;
+    font-size: 40px;
+}
+.apple-color{
+    margin-top: 30px;
+    color: white;
+    font-size: 30px;
+}
+.card-round{
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+.card{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: cadetblue;
+    border: 2px solid cyan;
+}
+.card-1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: white;
+    border: 2px solid cyan;
+}
+.card-3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: grey;
+    border: 2px solid cyan;
+}
+.memory{
+    color: white;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.container-gb{
+    margin: 30px 0 30px 10px;
+    display: flex;
+    gap: 30px;
+}
+.gb{
+    border: 2px solid white;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+}
+.model{
+    font-size: 30px;
+    color: white;
+}
+.container-model{
+    display: flex;
+    gap: 30px;
+}
+.model-appel{
+    margin-top: 40px;
+    font-size: 30px;
+    border: 2px  solid cyan;
+    padding: 20px;
+    color: white;
+}
+.price{
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+}
